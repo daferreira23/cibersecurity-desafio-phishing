@@ -16,5 +16,11 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 
 ### Resutados
+#### Acesso a página:
+![Alt text](https://github.com/daferreira23/cibersecurity-desafio-phishing/blob/master/pt_01.PNG?raw=true)
 
-![Alt text](./passwd.png "Optional title")
+#### Fazendo login:
+![Alt text](https://github.com/daferreira23/cibersecurity-desafio-phishing/blob/master/pt_02.PNG?raw=true)
+
+#### Login e senha da vítima:
+![Alt text](https://github.com/daferreira23/cibersecurity-desafio-phishing/blob/master/pt_03.PNG?raw=true)
